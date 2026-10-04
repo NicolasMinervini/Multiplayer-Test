@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Legs Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Elbow Pole.l
+    m_Weight: 0
+  - m_Path: Elbow Pole.l/Elbow Pole.l_end
+    m_Weight: 0
+  - m_Path: Elbow Pole.r
+    m_Weight: 0
+  - m_Path: Elbow Pole.r/Elbow Pole.r_end
+    m_Weight: 0
+  - m_Path: Foot IK control.l
+    m_Weight: 1
+  - m_Path: Foot IK control.l/Foot IK control.l_end
+    m_Weight: 1
+  - m_Path: Foot IK control.r
+    m_Weight: 1
+  - m_Path: Foot IK control.r/Foot IK control.r_end
+    m_Weight: 1
+  - m_Path: Hand IK control.l
+    m_Weight: 0
+  - m_Path: Hand IK control.l/Hand IK control.l_end
+    m_Weight: 0
+  - m_Path: Hand IK control.r
+    m_Weight: 0
+  - m_Path: Hand IK control.r/Hand IK control.r_end
+    m_Weight: 0
+  - m_Path: Knee Pole.l
+    m_Weight: 1
+  - m_Path: Knee Pole.l/Knee Pole.l_end
+    m_Weight: 1
+  - m_Path: Knee Pole.r
+    m_Weight: 1
+  - m_Path: Knee Pole.r/Knee Pole.r_end
+    m_Weight: 1
+  - m_Path: Main
+    m_Weight: 0
+  - m_Path: Main/Left Thigh
+    m_Weight: 1
+  - m_Path: Main/Left Thigh/Left Lower Leg
+    m_Weight: 1
+  - m_Path: Main/Left Thigh/Left Lower Leg/Left Foot
+    m_Weight: 1
+  - m_Path: Main/Left Thigh/Left Lower Leg/Left Foot/Foot.001
+    m_Weight: 1
+  - m_Path: Main/Left Thigh/Left Lower Leg/Left Foot/Left Foot_end
+    m_Weight: 1
+  - m_Path: Main/Left Thigh/Left Lower Leg/Lower Leg.001
+    m_Weight: 1
+  - m_Path: Main/Left Thigh/Thigh.001
+    m_Weight: 1
+  - m_Path: Main/Right Thigh
+    m_Weight: 1
+  - m_Path: Main/Right Thigh/Right Lower Leg
+    m_Weight: 1
+  - m_Path: Main/Right Thigh/Right Lower Leg/Lower Leg
+    m_Weight: 1
+  - m_Path: Main/Right Thigh/Right Lower Leg/Right Foot
+    m_Weight: 1
+  - m_Path: Main/Right Thigh/Right Lower Leg/Right Foot/Foot
+    m_Weight: 1
+  - m_Path: Main/Right Thigh/Right Lower Leg/Right Foot/Right Foot_end
+    m_Weight: 1
+  - m_Path: Main/Right Thigh/Thigh
+    m_Weight: 0
+  - m_Path: Main/Torso
+    m_Weight: 0
+  - m_Path: Main/Torso/Breastplate
+    m_Weight: 0
+  - m_Path: Main/Torso/Head
+    m_Weight: 0
+  - m_Path: Main/Torso/Head/Head_end
+    m_Weight: 0
+  - m_Path: Main/Torso/Head/Helmet
+    m_Weight: 0
+  - m_Path: Main/Torso/Left Upper Arm
+    m_Weight: 0
+  - m_Path: Main/Torso/Left Upper Arm/Left Lower Arm
+    m_Weight: 0
+  - m_Path: Main/Torso/Left Upper Arm/Left Lower Arm/Left Hand
+    m_Weight: 0
+  - m_Path: Main/Torso/Left Upper Arm/Left Lower Arm/Left Hand/Hand.001
+    m_Weight: 0
+  - m_Path: Main/Torso/Left Upper Arm/Left Lower Arm/Left Hand/weapon.l
+    m_Weight: 0
+  - m_Path: Main/Torso/Left Upper Arm/Left Lower Arm/Left Hand/weapon.l/Offhand Tool
+    m_Weight: 0
+  - m_Path: Main/Torso/Left Upper Arm/Left Lower Arm/Left Hand/weapon.l/weapon.l_end
+    m_Weight: 0
+  - m_Path: Main/Torso/Left Upper Arm/Left Lower Arm/Lower Arm.001
+    m_Weight: 0
+  - m_Path: Main/Torso/Left Upper Arm/Upper Arm.001
+    m_Weight: 0
+  - m_Path: Main/Torso/Right Upper Arm
+    m_Weight: 0
+  - m_Path: Main/Torso/Right Upper Arm/Right Lower Arm
+    m_Weight: 0
+  - m_Path: Main/Torso/Right Upper Arm/Right Lower Arm/Lower Arm
+    m_Weight: 0
+  - m_Path: Main/Torso/Right Upper Arm/Right Lower Arm/Right Hand
+    m_Weight: 0
+  - m_Path: Main/Torso/Right Upper Arm/Right Lower Arm/Right Hand/Hand
+    m_Weight: 0
+  - m_Path: Main/Torso/Right Upper Arm/Right Lower Arm/Right Hand/weapon.r
+    m_Weight: 0
+  - m_Path: Main/Torso/Right Upper Arm/Right Lower Arm/Right Hand/weapon.r/Item
+    m_Weight: 0
+  - m_Path: Main/Torso/Right Upper Arm/Right Lower Arm/Right Hand/weapon.r/Weapon
+    m_Weight: 0
+  - m_Path: Main/Torso/Right Upper Arm/Right Lower Arm/Right Hand/weapon.r/weapon.r_end
+    m_Weight: 0
+  - m_Path: Main/Torso/Right Upper Arm/Upper Arm
+    m_Weight: 0
